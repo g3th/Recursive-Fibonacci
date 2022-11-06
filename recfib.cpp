@@ -29,5 +29,5 @@ void test(int n){
 }
 
 int main(){
-	cout << test(13) << endl;
+	test(5);
 }
